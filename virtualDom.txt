@@ -1,0 +1,7 @@
+// Memory representation of component tree is virtual   dom but only used internally by react . When virtual dom is ready it is been inserted in the mouning element on the webpage
+
+// the idea behind virtual dom is to reduce the number of update of real dom
+
+// flux imples data in the app goes from top to bottom
+
+//react core alogorithm is called react fiber nd its main talk is what part of application is rerendered

@@ -45,7 +45,7 @@ const [, , , forthelement] = person;
 console.log(forthelement);
 
 // object and array destructuring
-
+// destructuring object in function arguments
 const scoter = {
   name: "Bajaj",
   model: "e1152",
